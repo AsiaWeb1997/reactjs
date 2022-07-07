@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AsiaWeb1997/reactjs.git/static/css/main.d3563c85.css",
+    "main.js": "/AsiaWeb1997/reactjs.git/static/js/main.21045d5b.js",
+    "static/js/787.1df7c16e.chunk.js": "/AsiaWeb1997/reactjs.git/static/js/787.1df7c16e.chunk.js",
+    "static/media/revicons.eot": "/AsiaWeb1997/reactjs.git/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/AsiaWeb1997/reactjs.git/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/AsiaWeb1997/reactjs.git/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/AsiaWeb1997/reactjs.git/index.html",
+    "static/media/check-item.svg": "/AsiaWeb1997/reactjs.git/static/media/check-item.aacd83c1b02d14d9b56c.svg",
+    "main.d3563c85.css.map": "/AsiaWeb1997/reactjs.git/static/css/main.d3563c85.css.map",
+    "main.21045d5b.js.map": "/AsiaWeb1997/reactjs.git/static/js/main.21045d5b.js.map",
+    "787.1df7c16e.chunk.js.map": "/AsiaWeb1997/reactjs.git/static/js/787.1df7c16e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3563c85.css",
+    "static/js/main.21045d5b.js"
+  ]
+}
