@@ -1,23 +1,20 @@
 {
-  "files": {
-    "main.css": "./static/css/main.2da23ab2.css",
-    "main.js": "./static/js/main.9bc68c10.js",
-    "static/js/787.1df7c16e.chunk.js": "./static/js/787.1df7c16e.chunk.js",
-    "static/media/revicons.eot": "./static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "./static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "./static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "index.html": "./index.html",
-    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
-    "static/media/check-item.svg": "./static/media/check-item.309e26f2b568fc484859.svg",
-    "main.2da23ab2.css.map": "./static/css/main.2da23ab2.css.map",
-    "main.9bc68c10.js.map": "./static/js/main.9bc68c10.js.map",
-    "787.1df7c16e.chunk.js.map": "./static/js/787.1df7c16e.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.2da23ab2.css",
-    "static/js/main.9bc68c10.js"
-  ]
+  "main.css": "./static/css/main.a92bf958.chunk.css",
+  "main.js": "./static/js/main.6233c83c.chunk.js",
+  "main.js.map": "./static/js/main.6233c83c.chunk.js.map",
+  "static/js/1.2e8f1a6b.chunk.js": "./static/js/1.2e8f1a6b.chunk.js",
+  "static/js/1.2e8f1a6b.chunk.js.map": "./static/js/1.2e8f1a6b.chunk.js.map",
+  "static/css/2.547cfa20.chunk.css": "./static/css/2.547cfa20.chunk.css",
+  "static/js/2.d0c0943e.chunk.js": "./static/js/2.d0c0943e.chunk.js",
+  "static/js/2.d0c0943e.chunk.js.map": "./static/js/2.d0c0943e.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.3c4ab64e.js",
+  "runtime~main.js.map": "./static/js/runtime~main.3c4ab64e.js.map",
+  "static/media/styles.css": "./static/media/revicons.2feb69cc.eot",
+  "static/media/App.css": "./static/media/HLRHeroMobile.b2ae386a.png",
+  "static/media/slick-theme.css": "./static/media/slick.f97e3bbf.svg",
+  "static/css/main.a92bf958.chunk.css.map": "./static/css/main.a92bf958.chunk.css.map",
+  "static/css/2.547cfa20.chunk.css.map": "./static/css/2.547cfa20.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.be8e82b13f08208c400be01d252e60a3.js": "./precache-manifest.be8e82b13f08208c400be01d252e60a3.js",
+  "service-worker.js": "./service-worker.js"
 }
